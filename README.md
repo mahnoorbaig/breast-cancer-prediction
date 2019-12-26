@@ -96,7 +96,7 @@ The steps in which we tested classification models
 
 ## Improvements
 
-One thing I didn't do was tune the parameters when implementing the ML models. This can potentially make the results from the models skewed and favor one ML model over the other.
+One thing I didn't do was tune the parameters when implementing the ML models. Leaving parameters untuned can potentially make the results from the models skewed and favor one ML model over the other.
 
 ## Resources
 
